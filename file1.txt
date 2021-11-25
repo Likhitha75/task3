@@ -1,0 +1,4 @@
+hello,this is likhitha
+git -is a cloud account
+git -is a tool
+pwd -present working directory
